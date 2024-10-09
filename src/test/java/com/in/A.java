@@ -1,8 +1,8 @@
 package com.in;
 
 public class A {
-	private void add() {
-		System.out.println();
+	public void add() {
+		System.out.println("checking status of git");
 
 	}
 
